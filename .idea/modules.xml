@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CAP 2.iml" filepath="$PROJECT_DIR$/.idea/CAP 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap 2 - Chegamos no Java/Teste/Teste.iml" filepath="$PROJECT_DIR$/Cap 2 - Chegamos no Java/Teste/Teste.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Cap 2 - Chegamos no Java/Teste2.0/Teste2.0.iml" filepath="$PROJECT_DIR$/Cap 2 - Chegamos no Java/Teste2.0/Teste2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cap 2 - Chegamos no Java/Teste/Teste2.0/Teste2.0.iml" filepath="$PROJECT_DIR$/Cap 2 - Chegamos no Java/Teste/Teste2.0/Teste2.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cap 2 - Chegamos no Java/Teste/operadoresAritimeticos/operadoresAritimeticos.iml" filepath="$PROJECT_DIR$/Cap 2 - Chegamos no Java/Teste/operadoresAritimeticos/operadoresAritimeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suaVez/suaVez.iml" filepath="$PROJECT_DIR$/suaVez/suaVez.iml" />
     </modules>
   </component>
 </project>
