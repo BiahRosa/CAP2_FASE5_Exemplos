@@ -6,7 +6,7 @@ public class Media {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o nome do aluno: ");
-        String nome = scanner.nextLine();
+        String aluno = scanner.nextLine();
 
         System.out.print("Digite a primeira nota: ");
         double nota1 = scanner.nextDouble();
@@ -16,7 +16,7 @@ public class Media {
 
         double media = (nota1 + nota2)/2;
 
-        System.out.println("O aluno " + nome + " possui a média: " + media);
+        System.out.println("O aluno " + aluno + " possui a média: " + media);
 
         scanner.close();
     }
